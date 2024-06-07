@@ -1,4 +1,4 @@
-![PixeLogger](https://cdn.discordapp.com/attachments/1171199173736013844/1248648870162993233/PixeLogger-Banner.jpg)
+![PixeLogger](https://cdn.discordapp.com/attachments/1171199173736013844/1248653740844781689/PixeLogger-Banner.jpg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 - 👋 Hi, I’m @pixelogger
 - 👀 I’m interested in ...

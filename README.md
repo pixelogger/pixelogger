@@ -1,1 +1,1 @@
-[![PixeLogger Banner](https://s8.uupload.ir/files/pixelogger-banner_vvgw.jpg)](https://s8.uupload.ir/files/pixelogger-banner_vvgw.jpg)
+[![PixeLogger Banner](https://user-images.githubusercontent.com/89854127/213686835-16c118d2-d724-4ef8-a534-df1032a4caf1.jpg)](https://user-images.githubusercontent.com/89854127/213686835-16c118d2-d724-4ef8-a534-df1032a4caf1.jpg)
